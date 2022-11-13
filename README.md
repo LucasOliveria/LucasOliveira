@@ -16,3 +16,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasOliveria&icon=6&color=12)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/LucasOliveria/LucasOliveria/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-# Sobre min :
+# Sobre mim :
 <ul>
   <li>💻Atualmente estudando Desenvolvimento de Software na Cubos Academy;</li>
   <li>🔎Procurando minha primeira oportunidade como Dev. Junior Full-Stack;</li>

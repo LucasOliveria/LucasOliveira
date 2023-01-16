@@ -4,7 +4,6 @@
   <li>🔎Procurando minha primeira oportunidade como Dev. Junior Full-Stack;</li>
   <li>🌱Estudando e praticando HTML, CSS e JavaScript;</li>
   <li>🚀Evoluindo como programador e pessoa;</li>
-  <li>👀Curiosidade: Aprendi a nada recentemente.</li>
 </ul>
 
 ## 🌐Socials

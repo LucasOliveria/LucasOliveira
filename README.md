@@ -1,10 +1,10 @@
 # Sobre mim :
 <ul>
-  <li>🤩Comecei a trilhar meu sonho de desenvolvedor de Software em mar/2022</li>
+  <li>🤩Comecei a trilhar meu sonho de desenvolvedor de Software em mar/2022;</li>
   <li>👨🏻‍💻Atualmente estudando Desenvolvimento de Software na Cubos Academy;</li>
   <li>🌱Desenvolvendo projétos em HTML, CSS, JavaScript e ReactJs;</li>
   <li>🔭Em busca de oportunidades como Desenvolvedor. Junior Full-Stack;</li>
-  <li>☕Me aventurando no Java</li>
+  <li>☕Me aventurando no Java;</li>
   <li>🚀Evoluindo como programador e pessoa;</li>
 </ul>
 

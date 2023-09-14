@@ -43,7 +43,7 @@
 </a> 
 &nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png" alt="git" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="nettlify" width="40" height="40"/> 
 </a> 
 &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 

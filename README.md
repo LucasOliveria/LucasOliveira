@@ -4,7 +4,7 @@
   <li>👨🏻‍💻Atualmente concluí os meus estudos em Desenvolvimento de Software na Cubos Academy;</li>
   <li>👨🏻‍💻Cursando Análise e Desenvolvimento de Sistemas;</li>
   <li>🌱Desenvolvendo projétos em HTML, CSS, JavaScript/TypeScript e ReactJs;</li>
-  <li>🔭Em busca de oportunidades como Desenvolvedor. Junior Full-Stack;</li>
+  <li>🔭Em busca de oportunidades e experiências como Desenvolvedor Junior;</li>
   <li>☕Me aventurando no Java;</li>
   <li>🚀Evoluindo como programador e pessoa;</li>
 </ul>
